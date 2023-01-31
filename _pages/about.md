@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This is a title :)"
+title: "UC Collaborative for AI-enabled Materials Exploration and Optimization"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
