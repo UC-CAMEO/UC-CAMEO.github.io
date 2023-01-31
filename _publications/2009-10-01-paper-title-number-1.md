@@ -6,7 +6,7 @@ excerpt: #'This paper is about the number 1. The number 2 is left for future wor
 date: 2016-09-01
 venue: 'The Annals of Applied Statistics'
 paperurl: 'https://projecteuclid.org/journals/annals-of-applied-statistics/volume-10/issue-3/Parallel-partial-Gaussian-process-emulation-for-computer-models-with-massive/10.1214/16-AOAS934.full'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(1).'
+citation: ''
 ---
 
 Author: Mengyang Gu, James O. Berger
