@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "UC Collaborative for AI-enabled Materials Exploration and Optimization"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome :) 
+Welcome to the website for **UC Collaborative for AI-enabled Materials Exploration and Optimization**. 
 
 
 ### News
