@@ -6,7 +6,7 @@ excerpt: #'This paper is about the number 2. The number 3 is left for future wor
 date: 2018-10-01
 venue: 'the Annals of Statistics'
 paperurl: 'https://www.jstor.org/stable/pdf/26542892.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: ''
 ---
 Author: Mengyang Gu, Xiaojing Wang, James O. Berger
 
