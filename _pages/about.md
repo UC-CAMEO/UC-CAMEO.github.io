@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to the website for **UC Collaborative for AI-enabled Materials Exploration and Optimization**. 
-
+Welcome to the website for **UC Collaborative for AI-enabled Materials Exploration and Optimization** (UC-CAMEO). 
 
 ### News
 - News 1
