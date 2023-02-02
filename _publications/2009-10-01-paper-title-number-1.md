@@ -1,11 +1,11 @@
 ---
 title: "Parallel partial Gaussian process emulation for computer models with massive output"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-1
+permalink: 
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
 date: 2016-09-01
 venue: 'The Annals of Applied Statistics'
-paperurl: 'https://projecteuclid.org/journals/annals-of-applied-statistics/volume-10/issue-3/Parallel-partial-Gaussian-process-emulation-for-computer-models-with-massive/10.1214/16-AOAS934.full'
+paperurl: ''
 citation: ''
 ---
 
