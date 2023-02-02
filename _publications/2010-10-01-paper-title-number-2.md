@@ -1,11 +1,11 @@
 ---
 title: "Robust Gaussian stochastic process emulation"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: #'This paper is about the number 2. The number 3 is left for future work.'
+permalink: 
+excerpt: 
 date: 2018-10-01
 venue: 'the Annals of Statistics'
-paperurl: 'https://www.jstor.org/stable/pdf/26542892.pdf'
+paperurl: ''
 citation: ''
 ---
 Author: Mengyang Gu, Xiaojing Wang, James O. Berger
