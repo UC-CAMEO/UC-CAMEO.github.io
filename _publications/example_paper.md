@@ -4,12 +4,12 @@ collection: publications
 permalink: 
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-07-01
-venue: 'Journal 1'
+venue: 'Physical Review X Life'
 paperurl: 'https://arxiv.org/abs/2303.03568'
 citation: ''
 ---
 
-Author: author 1, author 2, author 3,....
+Author: Mengyang Gu, Xinyi Fang, Yimin Luo
 
 
 
