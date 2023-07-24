@@ -3,7 +3,7 @@ title: "Non-Gaussian and anisotropic fluctuations mediate the progression of glo
 collection: publications
 permalink: 
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023-07
+date: 2023-07-01
 venue: 'Journal 1'
 paperurl: 'https://arxiv.org/abs/2303.03568'
 citation: ''
