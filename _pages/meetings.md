@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Meetings"
-permalink: /meetings/
+title: "Workshops"
+permalink: /workshops/
 author_profile: true
 ---
 
