@@ -16,7 +16,7 @@ Author: Mengyang Gu, Xinyi Fang, Yimin Luo
 
 
 [PDF](https://arxiv.org/abs/2303.03568)
-[Code](https://arxiv.org/abs/2303.03568)
+[Code](https://github.com/UncertaintyQuantification/data_driven_cell_model)
 
 
 ## Abstract
