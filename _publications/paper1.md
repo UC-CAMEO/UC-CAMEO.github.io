@@ -15,7 +15,7 @@ Author: Mengyang Gu, Xinyi Fang, Yimin Luo
 
 
 
-[PDF](https://arxiv.org/abs/2303.03568)
+[PDF](https://journals.aps.org/prxlife/abstract/10.1103/PRXLife.1.013009)
 [Code](https://github.com/UncertaintyQuantification/data_driven_cell_model)
 
 
