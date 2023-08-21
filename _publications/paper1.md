@@ -3,7 +3,7 @@ title: "Beyond nature's base pairs: machine learning-enabled design of DNA-stabi
 collection: publications
 permalink: 
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023-08-21
+date: 2023-08-07
 venue: 'Chemical Communications'
 paperurl: 'https://pubs.rsc.org/en/content/articlelanding/2023/cc/d3cc02890a/unauth'
 citation: ''
