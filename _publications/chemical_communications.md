@@ -9,9 +9,6 @@ paperurl: 'https://pubs.rsc.org/en/content/articlelanding/2023/cc/d3cc02890a/una
 citation: ''
 ---
 
-Author: Peter Mastracco, Stacy M. Copp
-
-
 
 
 
