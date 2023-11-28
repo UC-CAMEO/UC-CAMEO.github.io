@@ -9,7 +9,6 @@ paperurl: 'https://journals.aps.org/prxlife/abstract/10.1103/PRXLife.1.013009'
 citation: ''
 ---
 
-Author: Mengyang Gu, Xinyi Fang, Yimin Luo
 
 
 
