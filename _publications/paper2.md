@@ -1,5 +1,5 @@
 ---
-title: "Data-Driven Model Construction for Anisotropic Dynamics of Active Matter"
+title: "[2] Gu, M., Fang, X., & Luo, Y. (2023). Data-driven model construction for anisotropic dynamics of active matter. PRX Life, 1(1), 013009."
 collection: publications
 permalink: 
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
