@@ -1,5 +1,5 @@
 ---
-title: "Beyond nature's base pairs: machine learning-enabled design of DNA-stabilized silver nanoclusters"
+title: "[1] Mastracco, P., & Copp, S. M. (2023). Beyond nature's base pairs: machine learning-enabled design of DNA-stabilized silver nanoclusters. Chemical Communications, 59(69), 10360-10375."
 collection: publications
 permalink: 
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
