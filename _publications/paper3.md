@@ -3,7 +3,7 @@ title: "[3] Gu, M., Lin, Y., Lee, V. C., & Qiu, D. Y. (2024). Probabilistic fore
 collection: publications
 permalink: 
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023-09-01
+date: 2024-01-01
 venue: 'Physica D: Nonlinear Phenomena'
 paperurl: 'https://arxiv.org/pdf/2305.08942.pdf'
 citation: ''
