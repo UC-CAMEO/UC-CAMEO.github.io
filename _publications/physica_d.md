@@ -4,10 +4,12 @@ collection: publications
 permalink: 
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-01-01
-venue: 'Physica D: Nonlinear Phenomena'
 paperurl: 'https://arxiv.org/pdf/2305.08942.pdf'
 citation: ''
 ---
+
+
+
 
 
 
