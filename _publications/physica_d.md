@@ -9,7 +9,6 @@ paperurl: 'https://arxiv.org/pdf/2305.08942.pdf'
 citation: ''
 ---
 
-Author: Mengyang Gu, Yizi Lin, Victor Chang Lee, Diana Y. Qiu
 
 
 
