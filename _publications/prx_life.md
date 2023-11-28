@@ -4,12 +4,9 @@ collection: publications
 permalink: 
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-08-15
-venue: 'Physical Review X Life'
 paperurl: 'https://journals.aps.org/prxlife/abstract/10.1103/PRXLife.1.013009'
 citation: ''
 ---
-
-
 
 
 
