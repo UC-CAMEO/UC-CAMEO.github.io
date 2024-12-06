@@ -1,5 +1,5 @@
 ---
-title: "[4] Gu, M., He, Y., Liu, X., & Luo, Y. (2024). Ab initio uncertainty quantification in scattering analysis of microscopy. Physical Review E, 110(3), 034601. DOI: 10.1103/PhysRevE.110.034601."
+title: "[5] Gu, M., He, Y., Liu, X., & Luo, Y. (2024). Ab initio uncertainty quantification in scattering analysis of microscopy. Physical Review E, 110(3), 034601. DOI: 10.1103/PhysRevE.110.034601."
 collection: publications
 permalink: 
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
