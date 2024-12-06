@@ -1,5 +1,5 @@
 ---
-title: "[4] Fang, X., Murphy, E., Kohl, P., Li, Y., Hawker, C., Bates, C., &
+title: "[5] Fang, X., Murphy, E., Kohl, P., Li, Y., Hawker, C., Bates, C., &
 Gu, M. (2024). Universal Phase Identification of Block Copolymers from
 Physics-informed Machine Learning. Chemrxiv Preprint, DOI:
 10.26434/chemrxiv-2024-9zjt0."
