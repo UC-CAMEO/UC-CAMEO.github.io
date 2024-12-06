@@ -4,14 +4,14 @@ collection: publications
 permalink: 
 excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-09-03
-paperurl: 'https://pubs.rsc.org/en/content/articlelanding/2023/cc/d3cc02890a/unauth'
+paperurl: 'https://journals.aps.org/pre/abstract/10.1103/PhysRevE.110.034601'
 citation: ''
 ---
 
 
 
 
-[PDF](https://pubs.rsc.org/en/content/articlepdf/2023/cc/d3cc02890a](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.110.034601)
+[PDF](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.110.034601)
 
 
 ## Abstract
