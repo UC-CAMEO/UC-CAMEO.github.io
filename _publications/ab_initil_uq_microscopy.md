@@ -12,6 +12,7 @@ citation: ''
 
 
 [PDF](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.110.034601)
+[Code](https://github.com/UncertaintyQuantification/AIUQ-R)
 
 
 ## Abstract
