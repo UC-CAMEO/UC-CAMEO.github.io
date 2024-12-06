@@ -15,6 +15,7 @@ citation: ''
 
 
 [PDF](https://chemrxiv.org/engage/chemrxiv/article-details/6658e745418a5379b0b2b747)
+[Code](https://github.com/UncertaintyQuantification/automated_polymer_phase_identification)
 
 
 ## Abstract
